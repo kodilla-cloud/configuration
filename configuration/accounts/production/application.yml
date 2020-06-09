@@ -3,6 +3,6 @@ server:
 accounts:
   datasource:
     url: jdbc:postgresql://localhost:32768/accounts
-    username: postgres
+    username: postgres3
     password: postgres
     ddl-mode: update
