@@ -6,4 +6,4 @@ accounts:
     username: postgres
     password: postgres
     ddl-mode: update
-  allow-get-accounts: false
+  allow-get-accounts: true
