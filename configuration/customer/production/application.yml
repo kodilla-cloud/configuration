@@ -1,6 +1,6 @@
 server:
   port: 8083
-accounts:
+customer:
   datasource:
     url: jdbc:postgresql://localhost:32769/customer
     username: postgres
