@@ -1,0 +1,8 @@
+server:
+  port: 8083
+accounts:
+  datasource:
+    url: jdbc:postgresql://localhost:32769/customer
+    username: postgres
+    password: postgres
+    ddl-mode: update
