@@ -1,2 +1,2 @@
 eureka-serviceUrl:
-  defaultZone=http://localhost:8777/eureka/:
+  - defaultZone=http://localhost:8777/eureka/:
